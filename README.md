@@ -1,7 +1,7 @@
 
 # Book Manager
 
-A CRUP API stores information about books. Most of the code here was influenced by [this](https://github.com/pixegami/todo-list-api) project. It is a Lambda function written in Python that uses FastAPI. A Function URL is used in order to expose the application. Data storage is done via DynamoDB. The infrastructure is managed via Python CDK.
+A CRUP API that stores information about books. Most of the code here was influenced by [this](https://github.com/pixegami/todo-list-api) project. It is a Lambda function written in Python that uses FastAPI. A Function URL is used in order to expose the application. Data storage is done via DynamoDB. The infrastructure is managed via Python CDK.
 
 # How to setup
 
